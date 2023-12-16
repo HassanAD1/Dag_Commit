@@ -1,0 +1,5 @@
+outs:
+- md5: 969239423ef15622e17a707cefa9a1df
+  size: 750
+  hash: md5
+  path: prayer_times.csv
