@@ -1,0 +1,4 @@
+[core]
+    remote = dag_assignment
+['remote "dag_assignment"']
+    url = https://github.com/HassanAD1/Dag_Commit
